@@ -1,3 +1,3 @@
 # MonoEcs
 
-A base for an ecs system in monogame
+A base for an entity component system in monogame
